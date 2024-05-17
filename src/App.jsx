@@ -59,7 +59,6 @@ function App() {
     
     if (canvas) {
       startDrawing(canvas, color, thickness, bgColor);
-      
     }
   }, []);
 
